@@ -5,7 +5,7 @@
 * Django: 3.1.2
 
 ### 示例博客：<http://www.spiderpy.cn/blog>
-
+(参考https://github.com/jhao104/django-blog)
 ### 特点
 
 * markdown 渲染，代码高亮
