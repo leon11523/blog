@@ -5,8 +5,8 @@
 
 使用Django快速搭建博客
 ### 要求
-* Python: 3.5
-* Django: 2.2.0
+* Python: 3.8.6
+* Django: 3.1.2
 
 ### 示例博客：<http://www.spiderpy.cn/blog>
 
@@ -62,9 +62,3 @@ http://ip:port/admin
 
 * 文章内容
 ![文章内容](docs/image/image3.png)
-
-## 历史版本
-
-* [v2.0](https://github.com/jhao104/django-blog/tree/v2.0)
-
-* [v1.0](https://github.com/jhao104/django-blog/tree/v1.0)
