@@ -53,8 +53,8 @@ http://ip:port/admin
 * 首页
 ![首页](docs/image/image1.png)
 
-* 文章列表
-![文章列表](docs/image/image2.png)
-
 * 文章内容
-![文章内容](docs/image/image3.png)
+![文章内容](docs/image/image2.png)
+
+* 文章归档
+![文章归档](docs/image/image3.png)
